@@ -1,0 +1,12 @@
+Package: dart-frog
+Version: 0.1.1
+Architecture: amd64
+Maintainer: Felix Angelov <felangelov@gmail.com>
+Filename: pool/main/dart_frog_0.1.1-1_amd64.deb
+Size: 2601830
+MD5sum: c0ee94f5ce2ccfe6be34981fc1dd7a4f
+SHA1: 842e9cb63c9089b7b302b10aa45c4ccfa55e17ca
+SHA256: 3daa51194d82879124a6e3b18ef55c58749da7f7c5b7b849a10811e649ddeea4
+Homepage: https://dartfrog.vgv.dev/
+Description: A debian exectuable for dart_frog, A fast, minimalistic backend framework for Dart dart
+
